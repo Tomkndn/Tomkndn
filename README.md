@@ -9,7 +9,7 @@
 </details>
 - 👋 Computer Science Graduate and Open Source Enthusiast
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
+- 👨‍💻 All of my projects are available at my <a href="https://www.tomkndn.xyz">Portfolio</a>
 
 - 🌱 My tech stack includes MERN and Nextjs
 
